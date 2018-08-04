@@ -1,0 +1,12 @@
+C:\Users\VS-Sab\Documents\clase11\NetCoreDemo\Infraestructure.Context\bin\Debug\netcoreapp2.0\Infraestructure.Context.deps.json
+C:\Users\VS-Sab\Documents\clase11\NetCoreDemo\Infraestructure.Context\bin\Debug\netcoreapp2.0\Infraestructure.Context.dll
+C:\Users\VS-Sab\Documents\clase11\NetCoreDemo\Infraestructure.Context\obj\Debug\netcoreapp2.0\Infraestructure.Context.csprojAssemblyReference.cache
+C:\Users\VS-Sab\Documents\clase11\NetCoreDemo\Infraestructure.Context\obj\Debug\netcoreapp2.0\Infraestructure.Context.csproj.CoreCompileInputs.cache
+C:\Users\VS-Sab\Documents\clase11\NetCoreDemo\Infraestructure.Context\obj\Debug\netcoreapp2.0\Infraestructure.Context.AssemblyInfoInputs.cache
+C:\Users\VS-Sab\Documents\clase11\NetCoreDemo\Infraestructure.Context\obj\Debug\netcoreapp2.0\Infraestructure.Context.AssemblyInfo.cs
+C:\Users\VS-Sab\Documents\clase11\NetCoreDemo\Infraestructure.Context\bin\Debug\netcoreapp2.0\Infraestructure.Context.pdb
+C:\Users\VS-Sab\Documents\clase11\NetCoreDemo\Infraestructure.Context\bin\Debug\netcoreapp2.0\Domain.Entities.dll
+C:\Users\VS-Sab\Documents\clase11\NetCoreDemo\Infraestructure.Context\bin\Debug\netcoreapp2.0\Domain.Entities.pdb
+C:\Users\VS-Sab\Documents\clase11\NetCoreDemo\Infraestructure.Context\obj\Debug\netcoreapp2.0\Infraestructure.Context.csproj.CopyComplete
+C:\Users\VS-Sab\Documents\clase11\NetCoreDemo\Infraestructure.Context\obj\Debug\netcoreapp2.0\Infraestructure.Context.dll
+C:\Users\VS-Sab\Documents\clase11\NetCoreDemo\Infraestructure.Context\obj\Debug\netcoreapp2.0\Infraestructure.Context.pdb

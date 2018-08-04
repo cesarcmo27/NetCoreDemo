@@ -1,0 +1,9 @@
+C:\Users\VS-Sab\Documents\clase11\NetCoreDemo\Domain.Entities\bin\Debug\netcoreapp2.0\Domain.Entities.deps.json
+C:\Users\VS-Sab\Documents\clase11\NetCoreDemo\Domain.Entities\bin\Debug\netcoreapp2.0\Domain.Entities.dll
+C:\Users\VS-Sab\Documents\clase11\NetCoreDemo\Domain.Entities\obj\Debug\netcoreapp2.0\Domain.Entities.csprojAssemblyReference.cache
+C:\Users\VS-Sab\Documents\clase11\NetCoreDemo\Domain.Entities\obj\Debug\netcoreapp2.0\Domain.Entities.csproj.CoreCompileInputs.cache
+C:\Users\VS-Sab\Documents\clase11\NetCoreDemo\Domain.Entities\obj\Debug\netcoreapp2.0\Domain.Entities.AssemblyInfoInputs.cache
+C:\Users\VS-Sab\Documents\clase11\NetCoreDemo\Domain.Entities\obj\Debug\netcoreapp2.0\Domain.Entities.AssemblyInfo.cs
+C:\Users\VS-Sab\Documents\clase11\NetCoreDemo\Domain.Entities\bin\Debug\netcoreapp2.0\Domain.Entities.pdb
+C:\Users\VS-Sab\Documents\clase11\NetCoreDemo\Domain.Entities\obj\Debug\netcoreapp2.0\Domain.Entities.dll
+C:\Users\VS-Sab\Documents\clase11\NetCoreDemo\Domain.Entities\obj\Debug\netcoreapp2.0\Domain.Entities.pdb
